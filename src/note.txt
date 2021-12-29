@@ -1,0 +1,13 @@
+
+1) we got data from the server, in ProductList component,
+we need to add this data in our store and for that we needto dispatch an 
+action, our action was the setProdcuts in actions/productActions
+
+so in ProductList component,
+import {useDispatch} from "react-redux;
+import {setProdcuts} from "../redux/actions/productActions
+
+const dispatch = useDispatch();
+dispatch(setProdcuts(response.data))
+
+// https://fakestoreapi.com/docs
