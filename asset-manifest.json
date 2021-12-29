@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Redux-ShoppingApp-RestAPI/static/css/main.24ccfe93.css",
+    "main.js": "/React-Redux-ShoppingApp-RestAPI/static/js/main.d64ad536.js",
+    "index.html": "/React-Redux-ShoppingApp-RestAPI/index.html",
+    "main.24ccfe93.css.map": "/React-Redux-ShoppingApp-RestAPI/static/css/main.24ccfe93.css.map",
+    "main.d64ad536.js.map": "/React-Redux-ShoppingApp-RestAPI/static/js/main.d64ad536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ccfe93.css",
+    "static/js/main.d64ad536.js"
+  ]
+}
